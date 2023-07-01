@@ -1,0 +1,8 @@
+name: paper-bottles-plugin
+version: '1.0-SNAPSHOT'
+main: pl.karol.plugin.PaperPlugin
+api-version: 1.19
+
+commands:
+  bottle:
+  adrop:
